@@ -1,8 +1,9 @@
 {application,villain_selection,
-             [{modules,['Elixir.VillainSelection']},
+             [{modules,['Elixir.VillainSelection',
+                        'Elixir.VillainSelection.Helpers',
+                        'Elixir.VillainSelection.Validation']},
               {optional_applications,[]},
-              {applications,[kernel,stdlib,elixir,logger]},
+              {applications,[kernel,stdlib,elixir,logger,jason]},
               {description,"villain_selection"},
               {registered,[]},
-              {vsn,"0.1.0"},
-              {mod,{'Elixir.VillainSelection',[]}}]}.
+              {vsn,"0.1.0"}]}.

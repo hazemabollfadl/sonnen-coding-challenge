@@ -72,7 +72,7 @@ And here's a definition of the properties:
 Given the previous request, your module should return a json string like this:
 
 ```json
-{"position": {"x": 0, "y": 40}, "villains": ["Shir Khan", "Voldemort"]}
+{"position": {"x": 0, "y": 40}, "villains": ["Shir Khan", "Voldemort"]}2
 ```
 
 The attack modes we have implemented in the cream pie thrower are:
@@ -113,6 +113,6 @@ mentioned in the mail as [collaborators][1].
 
 Please add to repository any document that you have generated to solve the
 problem even if it is just a text file, a diagram, git commits etc. because we
-would like to see your problem-solving approach, not only the final solution.
+would like to see your problem-solving approach, not only the f inal solution.
 
 [1]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
